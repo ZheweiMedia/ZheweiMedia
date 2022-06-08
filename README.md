@@ -9,13 +9,14 @@ Hi, I'm Zhewei—a **data scientist** at Tearney Lab at Wellman (MGH:hospital:) 
 
 ### How I work
 
-I Collect questions / requests from M.D.s, pathologists, and researchers, define them as machine learning problems, and then solve them. Keep communicating with everyone to carry projects forward. Keep recording everything in my experimental logs.
+Collect questions / requests from M.D.s, pathologists, and researchers, define them as machine learning problems, and then solve them. Keep communicating with everyone to carry projects forward. Keep recording and updating everything in my experimental logs.
 
 <details>
   <summary>Some other achievements about me</summary>
   <br>
   
 - :mortar_board: Got my PhD 14 months after getting my master's degree.
+- :point_up: Had nothing in the first 6 years before that.
 - :sparkling_heart: Be proud of OU. :paw_prints: Bobcat forever!
   
 <!--
