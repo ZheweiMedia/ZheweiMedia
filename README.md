@@ -1,15 +1,15 @@
 # Zhewei Wang—@ZheweiMedia
 
-Hi, I'm Zhewei—a **data scientist** at Tearney Lab at Wellman (MGH:hospital:) working on **medical image analysis** and **machine learning** / **deep learning** to support the translation of multiple medical imaging technologies. Previously a PhD student :mortar_board: in computer science and master student :mortar_board: in biomedical engineering at [MedIA lab](http://media.cs.ohio.edu) at Ohio University. Sci-Fi reader, Gear of war :dart: and Stardew valley :hatching_chick: player.
+Hi, I'm Zhewei—a **data scientist** at [Tearney Lab](https://www.tearneylab.org/) at Wellman (MGH:hospital:) working on **medical image analysis** and **machine learning** / **deep learning** to support the translation of multiple medical imaging technologies. Previously a PhD student :mortar_board: in computer science and master student :mortar_board: in biomedical engineering at [MedIA Lab](http://media.cs.ohio.edu) at Ohio University. Sci-Fi reader, Gear of war :dart: and Stardew valley :hatching_chick: player.
 
-- :telescope: Building [data puddles](https://www.oreilly.com/library/view/the-enterprise-big/9781491931547/ch01.html) for each project now, and data lakes for the future.
+- :telescope: Building [data puddles](https://www.oreilly.com/library/view/the-enterprise-big/9781491931547/ch01.html) for each project for now, and data lakes for the future.
 - :seedling: Currently practicing MLOps.
 - :book: Reading《Designing Machine Learning Systems》,《[Full Stack Deep Learning](https://fullstackdeeplearning.com)》
 - :dancers: Encouraging and leading the machine learning team of Tearney Lab.
 
 ### How I work
 
-Collect questions / requests from M.D.s, pathologists, and researchers, define them as machine learning problems, and then solve them. Keep communicating with everyone to carry projects forward. Keep recording and updating everything in my experimental logs.
+Collect questions / requests from M.D.s, pathologists, and researchers, define them as machine learning problems, and propose and implement MLOps solutions. Keep communicating with everyone to carry projects forward. Keep recording and updating everything in my experimental logs.
 
 <details>
   <summary>Some other achievements about me</summary>
